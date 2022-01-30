@@ -1,2 +1,2 @@
 # coursera-test
-Cousera test repositor y
+Cousera test repository
